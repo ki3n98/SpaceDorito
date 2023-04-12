@@ -3,7 +3,8 @@
 The goal for this project was for me to learn the basic of SFML and ECS architecture, 
 and I think I've accomplished it. 
 
-Now, I will improve on what I learn on the next project. 
+I did not use any texture nor sound. So, I'm planning to learn that on my next project. 
+Hopefully, I will also be able to create a custom physic engine for the next project. 
 
 
 
